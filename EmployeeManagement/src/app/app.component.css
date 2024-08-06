@@ -1,0 +1,16 @@
+label{
+    font-weight: bold;
+    color: rgb(10, 235, 194);
+}
+h1{
+    text-align: center;
+    color: #ff1f96b3;
+    text-shadow: 0 0 3px #efe1e1, 0 0 5px #fafaff;
+}
+body{
+    background:url(https://media.gettyimages.com/id/493825406/photo/toll-booth-plaza-on-the-westbound-severn-bridge.jpg?s=612x612&w=0&k=20&c=OBEArl_ofSYpGEaXSus3mqKPli66eVioLc0gBarZvKQ=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
